@@ -15,8 +15,7 @@ npm test
 //Todo: Add character escaping for 
 
 ```
-    '\' escape
-escape
+    '\' escape escape
     '"'
     '\'
     '/'
