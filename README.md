@@ -50,7 +50,7 @@ Reference method from: http://geekswithblogs.net/Erik/archive/2008/04/01/120915.
   </xsl:template>
 ```
  
-Here's how it is called: 
+How it's called: 
 ```
   <xsl:variable name="myVar">
     <xsl:call-template name="string-replace-all">
