@@ -16,13 +16,13 @@ npm test
 
 ```
     '\' escape escape
-    '"'
-    '\'
-    '/'
-    'b'
-    'n'
-    'r'
-    't'
+    '"'   '\"'
+    '\'   '\\'  
+    '/'   '\/'
+    'b'   '\b'
+    'n'   '\n'
+    'r'   '\r'
+    't'   '\t'
     'u' hex hex hex hex
 ```
 Reference method from: http://geekswithblogs.net/Erik/archive/2008/04/01/120915.aspx
